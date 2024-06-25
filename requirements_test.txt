@@ -53,3 +53,4 @@ types-requests==2.31.0.3
 types-xmltodict==0.13.0.3
 uv==0.1.17
 aiohttp>=3.9.2 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
